@@ -6,11 +6,13 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0001-two-sum/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Sorting
