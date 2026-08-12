@@ -7,6 +7,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -52,4 +53,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
