@@ -61,4 +61,12 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0577-employee-bonus/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
