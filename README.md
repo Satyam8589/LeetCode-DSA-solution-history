@@ -9,6 +9,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0001-two-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -68,6 +69,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -86,4 +88,28 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
