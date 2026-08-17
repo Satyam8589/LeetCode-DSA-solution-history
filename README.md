@@ -44,6 +44,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -118,4 +119,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
