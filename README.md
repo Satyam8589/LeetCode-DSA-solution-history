@@ -24,6 +24,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0147-insertion-sort-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Divide and Conquer
@@ -82,6 +83,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0147-insertion-sort-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0147-insertion-sort-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
