@@ -48,6 +48,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
@@ -129,9 +130,26 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0169-majority-element/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
