@@ -11,6 +11,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -70,6 +71,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
