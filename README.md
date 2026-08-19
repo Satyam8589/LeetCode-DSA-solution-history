@@ -9,6 +9,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0001-two-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
+| [0137-single-number-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -99,6 +100,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
+| [0137-single-number-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0137-single-number-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
