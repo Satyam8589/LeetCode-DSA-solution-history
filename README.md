@@ -84,6 +84,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
