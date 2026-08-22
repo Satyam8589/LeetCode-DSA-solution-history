@@ -79,6 +79,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0577-employee-bonus/) | Easy |
+| [1934-confirmation-rate](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1934-confirmation-rate/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
