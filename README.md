@@ -54,6 +54,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
+| [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
+| [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -111,6 +113,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -124,6 +127,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
