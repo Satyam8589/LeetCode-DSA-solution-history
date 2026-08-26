@@ -58,10 +58,12 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 | [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
