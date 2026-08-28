@@ -101,6 +101,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0147-insertion-sort-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -148,6 +149,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0876-middle-of-the-linked-list/) | Easy |
