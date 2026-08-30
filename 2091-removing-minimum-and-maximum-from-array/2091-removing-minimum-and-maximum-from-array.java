@@ -19,15 +19,15 @@ class Solution {
             }
         }
 
-        if (maxPlace <= mid && minPlace <= mid) {
+        // if (maxPlace <= mid && minPlace <= mid) {
 
-            ans = Math.max(maxPlace + 1, minPlace + 1);
+        //     ans = Math.max(maxPlace + 1, minPlace + 1);
 
-        } else if (maxPlace > mid && minPlace > mid) {
+        // } else if (maxPlace > mid && minPlace > mid) {
 
-            ans = Math.max(nums.length - maxPlace, nums.length - minPlace);
+        //     ans = Math.max(nums.length - maxPlace, nums.length - minPlace);
 
-        } else {
+        // } else {
 
             int max = Math.max(maxPlace, minPlace);
             int min = Math.min(maxPlace, minPlace);
@@ -36,9 +36,9 @@ class Solution {
             int back = nums.length - min;
             int both = (min + 1) + (nums.length - max);
 
-            ans = Math.min(front, Math.min(back, both));
+            return ans = Math.min(front, Math.min(back, both));
 
-        }
-        return ans;
+        // }
+        // return ans;
     }
 }
