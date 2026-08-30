@@ -4,8 +4,6 @@ class Solution {
         int maxPlace = 0;
         int minPlace = 0;
 
-        int ans = 0;
-
         int mid = (nums.length - 1) / 2;
 
         for (int i = 0; i < nums.length; i++) {
@@ -18,27 +16,15 @@ class Solution {
                 minPlace = i;
             }
         }
+        
+        int max = Math.max(maxPlace, minPlace);
+        int min = Math.min(maxPlace, minPlace);
 
-        // if (maxPlace <= mid && minPlace <= mid) {
+        int front = max + 1;
+        int back = nums.length - min;
+        int both = (min + 1) + (nums.length - max);
 
-        //     ans = Math.max(maxPlace + 1, minPlace + 1);
+        return Math.min(front, Math.min(back, both));
 
-        // } else if (maxPlace > mid && minPlace > mid) {
-
-        //     ans = Math.max(nums.length - maxPlace, nums.length - minPlace);
-
-        // } else {
-
-            int max = Math.max(maxPlace, minPlace);
-            int min = Math.min(maxPlace, minPlace);
-
-            int front = max + 1;
-            int back = nums.length - min;
-            int both = (min + 1) + (nums.length - max);
-
-            return ans = Math.min(front, Math.min(back, both));
-
-        // }
-        // return ans;
     }
 }
