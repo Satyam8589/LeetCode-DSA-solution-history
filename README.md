@@ -22,6 +22,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +181,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
