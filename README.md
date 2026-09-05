@@ -12,6 +12,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0137-single-number-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0289-game-of-life](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0289-game-of-life/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -78,6 +79,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
+| [0289-game-of-life](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0289-game-of-life/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
@@ -187,4 +189,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0289-game-of-life](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0289-game-of-life/) | Medium |
 <!---LeetCode Topics End-->
