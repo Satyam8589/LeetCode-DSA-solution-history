@@ -10,6 +10,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0014-longest-common-prefix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
 | [0137-single-number-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0137-single-number-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0289-game-of-life](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0289-game-of-life/) | Medium |
@@ -86,6 +87,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
