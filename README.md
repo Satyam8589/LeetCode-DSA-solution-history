@@ -102,6 +102,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -216,4 +217,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
