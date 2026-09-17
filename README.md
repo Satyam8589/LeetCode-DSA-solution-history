@@ -15,6 +15,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0289-game-of-life](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0289-game-of-life/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -33,6 +34,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0169-majority-element/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -72,6 +74,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Stack
@@ -91,6 +94,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0035-search-insert-position](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +225,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0836-rectangle-overlap/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
