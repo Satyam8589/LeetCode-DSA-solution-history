@@ -10,10 +10,8 @@ class Solution {
         int minLength = Integer.MAX_VALUE;
         int answer = Integer.MAX_VALUE;
         int[] best = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            best[i] = Integer.MAX_VALUE;
-        }
+        
+        Arrays.fill(best, Integer.MAX_VALUE);
 
         for (int i = 0; i < n; i++) {
 
@@ -39,7 +37,7 @@ class Solution {
 
                 minLength = Math.min(minLength, count);
             }
-            
+
             if (i > 0) {
                 best[i] = best[i - 1];
             }
