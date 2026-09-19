@@ -70,6 +70,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0836-rectangle-overlap](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0836-rectangle-overlap/) | Easy |
 | [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3870-count-commas-in-range/) | Easy |
@@ -142,6 +144,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
