@@ -71,6 +71,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0289-game-of-life](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0289-game-of-life/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
