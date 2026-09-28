@@ -222,18 +222,21 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -255,4 +258,5 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0100-same-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
