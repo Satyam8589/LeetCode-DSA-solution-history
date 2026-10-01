@@ -67,6 +67,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
@@ -85,6 +86,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 ## Simulation
@@ -259,4 +261,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
