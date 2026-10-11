@@ -19,6 +19,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -271,4 +272,8 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
