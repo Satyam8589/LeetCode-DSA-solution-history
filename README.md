@@ -76,6 +76,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [0067-add-binary](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0125-valid-palindrome/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1927-sum-game](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1927-sum-game/) | Medium |
 | [2211-count-collisions-on-a-road](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2211-count-collisions-on-a-road/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -204,6 +205,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1668-maximum-repeating-substring](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1668-maximum-repeating-substring](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
