@@ -24,6 +24,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -258,6 +259,7 @@ This is a repo for the solution made by me for my DSA history of leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Satyam8589/LeetCode-DSA-solution-history/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
